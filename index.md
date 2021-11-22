@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Benvid@ al blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Es la hora ap ap ap ap aprender
